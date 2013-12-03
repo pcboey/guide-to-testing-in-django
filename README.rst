@@ -7,7 +7,7 @@ This is the example project demonstrating how to go about testing from the
 from the Django tutorial (minus the generic views).
 
 Tags have been added for each step in the process, starting with ``01-initial``.
-The project is based on Django 1.3 & SQLite.
+The original project is based on Django 1.3 & SQLite. This fork is for Django 1.1 and Sqlite.
 
 For the admin:
 
